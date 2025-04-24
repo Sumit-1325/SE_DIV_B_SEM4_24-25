@@ -1,5 +1,5 @@
 # SE_DIV_B_SEM4_24-25
- # Code Converter: C to Python using CodeT5
+  Code Converter: C to Python using CodeT5
 
 This project presents an intelligent system that automates the conversion of C code into Python using a fine-tuned transformer model (CodeT5). It addresses the challenges of manual translation by offering a context-aware and efficient solution suitable for both educational and practical use cases.
 
